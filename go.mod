@@ -1,4 +1,4 @@
-module github.com/Blockdag/crypto
+module github.com/BlockdagNetworkLabs/crypto
 
 go 1.11
 

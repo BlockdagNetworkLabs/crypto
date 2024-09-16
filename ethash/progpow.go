@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"math/bits"
 
-	"github.com/Blockdag/crypto/sha3"
+	"github.com/BlockdagNetworkLabs/crypto/sha3"
 )
 
 const (

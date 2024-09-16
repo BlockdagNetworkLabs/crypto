@@ -5,8 +5,8 @@ import (
 	"sync"
 	"unsafe"
 
-	"github.com/Blockdag/crypto/cryptonight/groestl"
-	"github.com/Blockdag/crypto/cryptonight/jh"
+	"github.com/BlockdagNetworkLabs/crypto/cryptonight/groestl"
+	"github.com/BlockdagNetworkLabs/crypto/cryptonight/jh"
 
 	"github.com/aead/skein"
 	"github.com/dchest/blake256"

@@ -13,7 +13,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/Blockdag/crypto/fastxor"
+	"github.com/BlockdagNetworkLabs/crypto/fastxor"
 )
 
 func TestXOR(t *testing.T) {

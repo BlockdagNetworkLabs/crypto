@@ -1,4 +1,4 @@
-module github.com/Blockdag/crypto/cryptonight
+module github.com/BlockdagNetworkLabs/crypto/cryptonight
 
 go 1.14
 

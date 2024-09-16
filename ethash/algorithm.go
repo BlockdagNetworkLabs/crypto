@@ -12,8 +12,8 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/Blockdag/crypto/fastxor"
-	"github.com/Blockdag/crypto/sha3"
+	"github.com/BlockdagNetworkLabs/crypto/fastxor"
+	"github.com/BlockdagNetworkLabs/crypto/sha3"
 )
 
 const (
