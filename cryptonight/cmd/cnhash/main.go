@@ -14,7 +14,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Blockdag/crypto/cryptonight"
+	"github.com/BlockdagNetworkLabs/crypto/cryptonight"
 )
 
 func main() {

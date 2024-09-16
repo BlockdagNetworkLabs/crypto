@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/Blockdag/crypto/sha3"
+	"github.com/BlockdagNetworkLabs/crypto/sha3"
 )
 
 func TestRandomMerge(t *testing.T) {

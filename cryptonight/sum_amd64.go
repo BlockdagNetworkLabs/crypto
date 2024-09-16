@@ -3,8 +3,8 @@ package cryptonight
 import (
 	"encoding/binary"
 
-	"github.com/Blockdag/crypto/cryptonight/internal/aes"
-	"github.com/Blockdag/crypto/cryptonight/internal/sha3"
+	"github.com/BlockdagNetworkLabs/crypto/cryptonight/internal/aes"
+	"github.com/BlockdagNetworkLabs/crypto/cryptonight/internal/sha3"
 
 	"golang.org/x/sys/cpu"
 )

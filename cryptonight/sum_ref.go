@@ -3,8 +3,8 @@ package cryptonight
 import (
 	"encoding/binary"
 
-	"github.com/Blockdag/crypto/cryptonight/internal/aes"
-	"github.com/Blockdag/crypto/cryptonight/internal/sha3"
+	"github.com/BlockdagNetworkLabs/crypto/cryptonight/internal/aes"
+	"github.com/BlockdagNetworkLabs/crypto/cryptonight/internal/sha3"
 )
 
 func (cc *cache) sumGo(data []byte, variant int) []byte {
